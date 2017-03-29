@@ -17,7 +17,7 @@ Rowing Simulator
 ### Videos
 
 ### Images 
-
+![Alt text](https://github.com/TheHarlander/Comp240/blob/master/Splash.png?raw=true)
 
 
 ## Additiontial Links
@@ -26,7 +26,12 @@ Rowing Simulator
 ## Contact
 [oldcrescentstudios@gmail.com](oldcrescentstudios@gmail.com)
 
+
+
+
 **Bold** and _Italic_ and `Code` text
+
+
 
 [Link](url) and ![Image](src)
 
