@@ -27,7 +27,7 @@ Rowing Simulator
 
 
 ## Contact
-[Link](Inquiries)
+[oldcrescentstudios@gmail.com](oldcrescentstudios@gmail.com)
 
 **Bold** and _Italic_ and `Code` text
 
