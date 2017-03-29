@@ -10,7 +10,7 @@ Old Crescent Studios Is a UK based game studio made up of Dean Harland and Emilj
 
 
 ## How we came about
-Old Crescent Studios was founded in 2017 by Dean Harland and Emiljano Kurbiba during their time at Falmouth University studying BSc Computing for Games. The first game they worked on was Rowing Simulator, 
+Old Crescent Studios was founded in 2017 by Dean Harland and Emiljano Kurbiba during their time at Falmouth University studying BSc Computing for Games. The current game we are working on is Rowing Simulator, this laughter filled game is the first of many on the path of the studio.
 
 
 ## Projects
