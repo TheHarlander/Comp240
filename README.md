@@ -9,10 +9,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Old Crescent Studios Is a UK based game studio made up of Dean Harland and Emiljano Kurbiba, our goal is to bring laughter through the games we create.
 
 
-### How we came about
+## How we came about
 Old Crescent Studios was founded in 2017 by Dean Harland and Emiljano Kurbiba during their time at Falmouth University studying BSc Computing for Games. The first game they worked on was Rowing Simulator, 
 
 
+## Projects
+
+## Media
+
+### Videos
+
+### Images 
+
+
+
+## Additiontial Links
 
 **Bold** and _Italic_ and `Code` text
 
