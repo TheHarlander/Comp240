@@ -14,6 +14,7 @@ Old Crescent Studios was founded in 2017 by Dean Harland and Emiljano Kurbiba du
 Rowing Simulator
 
   -What is Rowing Simulator?
+  
   Rowing Simulator is comedic take on a plain old simulator about rowing. In which the player is put down this river and is suddenly attacked by flying cats. Using state of the art Virtual reality you can immerse your self in this action packed enjoyable game where the only tool you have to defend your self is the oars which came with the boat.
   -
 ## Media
