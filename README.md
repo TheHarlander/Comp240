@@ -21,8 +21,10 @@ Rowing Simulator
 
 ### Videos
 Check out our [YouTube Channel](https://www.youtube.com/channel/UCvCnrky5wfhFIHk4SZ2vMRg)
-## Trailer Here
-https://www.youtube.com/watch?v=TW9etifw65c&feature=youtu.be
+
+#### Rowing Simulator Trailer:
+[![ScreenShot](https://github.com/TheHarlander/Comp240/blob/master/TrailerScreenshot.png?raw=true)](https://www.youtube.com/watch?v=TW9etifw65c&feature=youtu.be
+)
 
 ### Images 
 ![Alt text](https://github.com/TheHarlander/Comp240/blob/master/Splash.png?raw=true)
